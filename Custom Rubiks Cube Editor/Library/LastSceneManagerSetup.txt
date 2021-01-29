@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Kacper Bazan/Documents/Unity Projects/Rubiks Cube Project/Assets/Scenes/SampleScene.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
