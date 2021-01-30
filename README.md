@@ -38,15 +38,13 @@ The algorithm that solves the Rubik's Cube is based around *Kociemba's Algortith
 <sup>1</sup> The correct orientation of the cube will always be Red as the Front (*F*) face and White as the Up (*U*) face.
 
 ## Installation
-
->**Note:** Currently my packages aren't exporting correctly. It would be better if you just downloaded the files in the folder and drag them into your project.
-
 1. Download the Unity Package from the **Releases**.
 2. Open a new or existing unity project.
 3. Click on **Assets** > **Import Package** > **Custom Package**.
 4. Select the downloaded Unity Package from Releases.
 5. Select **All**
 6. Select **Import**
+7. Select the scene with the Rubik's Cube in the **Scenes** folder.
 
 ## Licensing
 *Copyright © 2020 Kacper Bazan* - Email: **bazankacper25@gmail.com**
