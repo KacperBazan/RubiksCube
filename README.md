@@ -24,7 +24,7 @@ The algorithm that solves the Rubik's Cube is based around *Kociemba's Algortith
 | Mouse Wheel (*Up/Down*) | Pan Cube Around Tertiary Axis   |
 | Left Click (*On Button*) | Change Color of Cursor   |
 | Left Click (*On Cube*)  | Sets Color of Cube to Color of Cursor  |
-| Middle Click  | Reset Cube Orientation |
+| Middle Mouse Click  | Reset Cube Orientation |
 | R  | Reset Cube Orientation |
 >
 
@@ -37,7 +37,18 @@ The algorithm that solves the Rubik's Cube is based around *Kociemba's Algortith
 
 <sup>1</sup> The correct orientation of the cube will always be Red as the Front (*F*) face and White as the Up (*U*) face.
 
-## Licensing
-*Copyright (C) 2020 Kacper Bazan* - Email: **bazankacper25@gmail.com**
+## Installation
 
-*Distributed under the [GPLv3](https://github.com/KacperBazan/RubiksCube/blob/main/LICENSE)*
+>**Note:** Currently my packages aren't exporting correctly. It would be better if you just downloaded the files in the folder and drag them into your project.
+
+1. Download the Unity Package from the **Releases**.
+2. Open a new or existing unity project.
+3. Click on **Assets** > **Import Package** > **Custom Package**.
+4. Select the downloaded Unity Package from Releases.
+5. Select **All**
+6. Select **Import**
+
+## Licensing
+*Copyright © 2020 Kacper Bazan* - Email: **bazankacper25@gmail.com**
+
+*Distributed under the [GPLv3](https://github.com/KacperBazan/RubiksCube/blob/main/LICENSE) license*
